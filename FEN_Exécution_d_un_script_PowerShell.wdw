@@ -1,0 +1,271 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Exécution_d_un_script_PowerShell
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Exécution_d_un_script_PowerShell
+ identifier : 0x2cebc02b007606dd
+ internal_properties : CAAAAAgAAAD8KEa58y8QTIBSPuo1mj5UdFbprOgoWHmNG01jHtLqzpQ5332KK3QM29VpjsrqxYGJvERdhI/DCvDCLDfoIUKks62Ydl8U1cOnF4t7n/mde1f4tWNqlK31MYewrjMUWt9lwL+W2mat8zhYKQH/Z6C0sJrZQ4VOtSl7qvXgyC/lXG4Ydh1mKGWWgYZ8OQ9cEIaDHl8oFT/mcvix0cO5hAs1vM6yLNGkD0I8OyMLBvUT4Uw67gDBgMk11x41gl+Q9UWiKMe1fZtpA2h04HJvYIlTDZ3TP34Yy8J4Qb1b+N/qPwmBlA7630vdYGfkD91DqULyMiMWDgCnoncY20er637j+yJ1f8aRttxQYHLmpm4wRIK79P9f7ziFcNjYHgiz+OiF2PdFum/XLXSfTJH52ZG1oTKCgN63ECoofwlPvgJ1FZL7l9NRh6r1vwy1xb/yJRoryKnAbHx3V+sFMuxVozXEC/AOojyXTZjdmVDPa7Ysn61ULG9LqBq1fpDvD8vLSOPP98xnSkNi9YF0qQTgwOds/vcPH8EYN5jjJaD6ngsa4qI6ItVZYycQMUfwpvwGs4rRDe0Mmg8qyf6my5q1ZBUvlkFuTWBebIvYByBf2R+DxX203f2GG5N7ex10upsb7TooU7FgtoyYTqZH0LaLLxjLMiPl1DNuDsfsv501Vj8c4GQAO4p7Nxg1PZYtTtAf+aLkfUZxJY8L5oFY5yVl4M68Mcq75F+71hzPZKrDvI0Mo8coP/qqkzOyKrodc4RPbPtlhV2k+JBgJ8h8PNgAIQqjqvsxIYYr2SpbpeOcbIeHvfL/IEPC2Nj4mFg/sVrk2YKASGzJVPnbENWCJYUub2jY31Vu39tkLbbOd20muk4um7CE0nJK6gbPWhGqIAqOReMbzYql4NhI3RMP23c9gjyyc5CX+ME12PMIlA995Q==
+ properties :
+  width : 800
+  height : 600
+  widthClient : 798
+  heightClient : 568
+ controls :
+  -
+    name : SAI_SCRIPT
+    identifier : 0x2cebc02f009215fa
+    internal_properties : CAAAAAgAAACt3UIUCrxFicyLeO+yo29BaYYoLFUm1CH4Ttg/gwVOX1fdYgQC2BL5JEd24gRLamao+9dV9qDvsgVipJJHE4RDYFR5qal9XgnC8cX7Nc5fUcCrcCPOyBTS04rs+6tiDEe79gFPcwM3Du6bgrdk58V2z8DQ9om/OYjoYJzQ8iwGN2T9SIx71GafXKzK2qRsyHPIIQ6pZmdKr2E2mCz6/ggbCQmD6FuyQJG4mEJ4eV8L7ehnorphJaSldqqwPI3Ra3rY/eE3bGaesrF/Xuk7Xp+VYtLrNGw533SFP/7X678gNETHy1aoUnmVPviS8rVIso6Vci9Ob4AMin/26frOPqQC94QYJUoOQ+fjQ+rckIrWAw1mS3QAsgvuP0oN/s3pUgRXMxaDL/z6Hnv4yUANMbXtQHW8er50IkDmFUlkbW4JjduXtbIbMQR9z4wA61gsVzQ5sTFb6aE+4L0qjpiQ0Kj/b64l8sPHlT4EBonrska0VQ6GIKrDGqVkT3/8Myeai63QxODKp7kGcSVmL8X3ibkL+Z8Fd8n78qw6AUAJRc5eIntf5+HUKCRVGwIy3l8cke4cl4rPqqx2kwLbzqYQkfi/OGxawn1rZ5x99KJCo7LHWjHjfYGRvgBdNWr+xWpJ0AcLERIIWQq2I6l7FXzANAHNYWd+TGuq1nY8DM+7wVIQ2hOXTw0cS5w/B8hycd1XP7nia6jQcB8EOfpaEi69qamaAfdU+T/YzbWTyHcHLiicOxbmz2tZPWgl2EpPCFNkboNxq48175YmRVkvjKUD0PvlVUj81fseFXZruj4ScbppFPLiyIdrRJYBdU5XanKu5swGoM8bdA0GpjnnMBskcmOln/R9mJsBK/NyrJLWC/3XYuFwxcnbgUPwJ/o+N1kppPrLM0w5LttOJjmhSeu0bhklnazUxSLBlteRbzvIgdZFfC2ZF0aYCwMmrljL/oo33kX2XCilhf/SCcn/yYghlNhIX9hhW5aWS1FeYKkwq6bn/jk9m/JduWhaIwuZ8k4oR1pgPNfyea8RMTM8rGw804j7jtLCeQVeKvrPWaVehacj4F+TohZkmTVFvjMwNAtoQdHiCVZHgFNaRR2YDNQ7VEIkG5W/3dcMSLKpgjY7wiSZgx4XSo3oqJuU0g/fRlYaq9FcvdBfCt555hbvSzMo1QpG8WPn9R2VzVAjMg21XhmF9Ws08b7eaIskPrgrqmPP5VxQMhHJiQS6GHbhE6r8zB2VtBParM95Xtr/w8on6gCbGxeppe8q4ou7Rk3E9A6Z2NwH03l6OQ4NpO2fagGfsiAVc7944XF4lEmeF6oOCxE4LTw4eKgqkTOM8V4W/QSBely1xBrUR8xY0+5EjA==
+    properties :
+     x : 6
+     y : 36
+     width : 786
+     height : 244
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_Exécuter_le_script_PowerShell
+    identifier : 0x2cebc0aa0128f688
+    internal_properties : CAAAAAgAAACq++5jKLvKQ8lSCJA+3xoyey4WcHJIpXQ2yAXVI8+J9pXaqQwRNjGVFkVeUozRQDsS+/YeHKOBsJfjEwEIzIPpHMIWrHxe71r8mJnw0xuow1spNf/E5DzpngJeZb1ZWULpLNHNT9m6M6YpU76Hl2Dv5RBqA0p6WY635nJL2v6PXv6NAkAecwPZ8z1vfvimGYt8N70SuZC4TwsBFFwnVfCP6FhNAh/wEBv9mG6ORfqiNDnZzNPRXyQLicOdrHVz9Hv9q0Zx8V35D1LBZX9E/uGXmv+fe5i9jbRQevPEI6J/h36DN0rOlFPZ8UP9DghCcFwoTdtNVG5xlVjBhhBKRI3nTCEqoczD17tv8P7CIihE0VtfaG5twprNRK36ZCBeVb4MJuRtSMrsKC95AvpeDDraz76MsNR1YM7kKbNLQ/GPumeTvcNB+DlNAEevUWBkhbI1eGLoa2kamj5HUSmQgUWuI/ep1RkbS4H04LrD5XDH88gV3djyh9L8PPh4XwHOBP8bt8F9weMzfEQfRUfpqR9xqX9MHu0R1bZeLERd0Cr2Cb++mSJN3Ht9TlnGKVQeG0M9ZoR6rdfCvpFcys808QaFsNVAbGZA7yM8L4iKg5Gj85j3l5hQ+nHMLYAwEUKOQed8jl1HY5YLYFXVJpFMKa6pv8/dhdM77EbGZV8ZXdaABDwGIbvXlj6yJe9BVIgz3gNOLpWJ5xDnppFRMnfdrsO7p2PFwGlDQEh2G26FYXE4CZKFRisWSm7cVVQkBj5y+4n80mIMKnR8Pq/Gsehle0Cw9ROc/ycej2jUWq0toah33bCRh9IIwHIxBru+rXuxMhwnHsWknKLQHPgTr9JleWZ4Nflnx/t8gAIpEFLJexu/TUWQO3NRrSBHkYjXHbKdtXqSD9ieQsRXHdAbs26HF/PgfJf61gOPvMYQleJQkbNgqPNiu8ktfUY3FIPCzrULTWq/Mz7uELncr9i1v8S4Q+DREQ08HVtzCWmBOgwAOZ4=
+    properties :
+     x : 6
+     y : 277
+     width : 786
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         bRésultat est un booléen
+         sRésultat est une chaine
+         bForce64Bits est un booléen
+         
+         // Doit on exécuter le PowerShell 32 ou 64 bits
+         bForce64Bits = (SEL_3264 = 2)
+         
+         // Exécute le script PowerShell
+         (bRésultat, sRésultat) = PSExécuteScript(SAI_SCRIPT, bForce64Bits)
+         
+         // Affiche le résultat dans la fenêtre
+         si bRésultat ALORS
+         	LIB_RESULTAT = "OK"
+         	LIB_RESULTAT..Couleur = VertFoncé
+         sinon
+         	LIB_RESULTAT..Couleur = RougeFoncé
+         	LIB_RESULTAT = "En Erreur"
+         FIN
+         
+         // Affiche le compte-rendu
+         SAI_Compte_Rendu_de_l_exécution = sRésultat
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_Résultat_de_l_exécution
+    identifier : 0x2cebc0ba017235b9
+    internal_properties : CAAAAAgAAACyCdNdz9hifh63L1Dad/qCA/7XlHP5lxeAOvv92DcEBrfuK8+3KZg/xqqe0ZrCVMWlPQ/RJrl/PLOS2/eXWtJpat4PdHD6jE2yE+Z7a5M6TpINKzylRwT+biMuUeRXoYA1q+TJtJWvI0JUhy/ubswSJjPaNlYiBytuPmftgcRXanAk4ACLoaHSDQelYnQAErShtL/PAs/p+4k5EW3akezyP79/PUSTL7Tt6Ti2QJJJvEWUwvFaJaXuwsjZoZXTAlFsY8pLrN3lARwWLvp4AkLDYPm1fQDwNoEQkD2BERx0ZXT2QGXkzcyJdfBQqhJ7aJoXVmKNCDgGEUSuru4ZV75yw/jMpJfE7LuHDJDOS7lyBMyx5yXwwzKPkeRV0WtQm+XFs3YNiVyipxzCMvIAPJcAC9Tm5JQiORzQOeeGI8cI5zKSwGT1hYvO5B/7BJU966A4NcRwewLXcW/StrAlgeCpzNftIi8cKBTsNxtChDzO1cfKyawP9yRbPBxNuTfVKPZgscYM8d+CAMW9Y0Rxtr2+
+    properties :
+     x : 6
+     y : 332
+     width : 156
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_RESULTAT
+    identifier : 0x2cebc0c501756090
+    internal_properties : CAAAAAgAAAA6rK7Q9dagZ3JVAQI0Ipv+E4cDOFfhMODQBXPYWzrRmOADj4pDq00UhJXKGS3PAk9Jm59k/3VBmzO2Zul55CYqzNvu1/SwOQXncXW13TgiMtC03m9g3saf2ADB486/91ZDTJXDjgUUJUyOJkaDYPPK+y1nbHIHfPFcYzNQKz5voB1o4rB0LYFxZjrSAqCIPONY/i+hhE0K43TjB7h8Nlqp4IqPyDU2IbhCHlf8RUMY5pzNBZrETLSZra6GAZ7OpxkXvf4Xtg3vJlJeK7kWOjQqRqP3Krvm6E1k422xIdClKxPaYebmhbSeKf0pbsXxJ8zmmeXzkIjkjY+ICas/Alg6G2aBWe6NlDsj7qhnhaIb0uWAhrGCGXaqGj+NDkCUcYYw6RXX8/ljKEtgYroGUurVI1y5iJhLHAHcj/QOloyOdafkCHONugrvJipTFzoZ3ja47NE0lo1zdt8jQzlnctt7i1L3gBoSEAut8YFFoQ==
+    properties :
+     x : 193
+     y : 332
+     width : 156
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : SAI_Compte_Rendu_de_l_exécution
+    identifier : 0x2cebc0d4019e9891
+    internal_properties : CAAAAAgAAABYTxz1hfaoCtTZmeR3m614I7p7miLfXnUfnUxCmYpsANRblqoq8IJWuXdUy2vMIzM1aIS7Ii8QQ1n3/GXiPPsZyLM1fxMkyOClrVThrZ4HjMKKRZM0wyb+8iF9emZavHRO5BRI2Ccs8spQm2GLV9yPp4wfcToHW8ULfg/IdBn4Mz9jkmL4Xf2tz2yxcOqC3oqayeSdO537NtQMuae5ZgcG3YYlqGcysE8QByBcv5mimx/eAq4KErEmp48LFyXsHQFaU6TLVSDddvcrVCUGfdm4mdYCoyVkYtLMUX1pI3vOBQP4wrcrgWpmcBheNQPdVzpWoBX8CT9AM/SadyYcry4iutMYIlGWtwn1Qk8Yk7LVEO4ofLsr74SVJEBPoKl+vK5SUdg8L2Y3e0YgSJOWdicrB5J9qjDJCcb8mRRrN/SegL9GRMkEF1y0i7ZIzz/fBfsM7ItAOUEfjMlQTY15QbOnbboxQmjMRU3LXSf/OI4KMOpkWMVSLql1GhB33KoSWH1NsFlgKySv+8Jv1zKCTrj+v3r3NJJ5KWOS44kBejAsurpnhHGunM0F0jB+E5MbWbYWYehHn5JclpvQEQ5Psd/4TH/tiGIMdXPIGoJxnKq4D5/fHyGzBc56QJxvtgOGJvnX6tcxdxGKgncluLvgdquxK578nC/J1OaS6sLWmRdI7CHSah/EiwvLc/dPVHk69jbbiLEW8MKMRJBUWO4xYqREzMrvq3Npp8mbDBUnFO4t4y5ENkz60Iv6vqKQOh0OTx4JPi+eL0EVYcBmkEYy682S1+RAsaOvJWQhYw9eczWx54sKA9hmhQeX5yPJcTY/DYBXkN+E6fg5eMqjJGSw1kIJVM3FzdkNWHskd/94zBMoHXvxDsZ1YuKrQO9cx0anysNWPmtNfGiJOe+IyO7DrJ9VzzeDOYjjTYkNAG+hZGbH0uu7NzLd6blXZv5mr5vJGZe0J3kFMhmMALaw+4Tzh1MviLt5H0xxfI5la5UogjETJlaBhrKhfPtToI9tu1wTfjXcH7LNlIebY7vpi2u0goH7ulJVtF2WLGO0ik8aTYfd+ukEIkmg1cGuMzvXuzgPdE2M1C8VvQ8Y0qP4gU6ZiltAFboMRotMGTA3GjUFEL+GdQ6Szd8AoWn3QxjJeNL+5yJqQYvU7KEhl0fA68SPSPwBNVxpQRTVCkBuUvqPxWTO36RbVicDyYc9MdgQf1WG+ZEON4b8ASyv86Xr08D/nL9OSA2E3vuWeD0gh3mbUYgr4snjkX6SPjxBJmpppWljVxfoF4CGbLYi7d8KENzIZYMmQUHE5N66LK+qECB0Vw0SPxxxPCznjLlJyMsr6sqLMB7OTUmXMY+1g5VI5eVMNu9NlNwpBx2yeLyo45XHSX/p9lkzOL2qnuTU10bJnI9AhqlHTVidvMBztSCYqXvLXFfU
+    properties :
+     x : 6
+     y : 358
+     width : 786
+     height : 194
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : LIB_Script_PowerShell_à_exécuter
+    identifier : 0x2cebd2b30350687e
+    internal_properties : CAAAAAgAAACKJ7nFkErGZsBXEPT4G1orGKUToLhO5mdPkC5CD+fwop9ec7Jxlks/mGhfWOw3ozjUQgz4H4o5EMzQO5pegI51u22QaItkaOc5Ex+uQiqoEMD2bdTCD05oAEpvVrgtPll9jREESpHe1QH6Xef2k2dnfFgsVPawThEAVFE6FHDt6QbxVfeXewYw0JlbD5s6O2i1Q3dVrnjyiJDiW+qRg3ViuiOzopcMxG/WQgTvdsk0GkOycJ9gmHuHLON8hJUwGN7RWpmjlTFK671VN4JYxreK28qJKisOYMgjsqJsRTuX4hVTBsm9qwQ6NAFVdRtgtk+UEFwZlykvkSTytcFG5lYBf0LiG6s1XX67S9SuBue5+PjdC1ObpNqrMr5u5HXhBJSlenrvk2T6Q79hrrhZGIkjAKVzrfdLA7DNoGZsUQGTGFt37CwKvgEKlINfLu+z77m5lLTu1VwuxyHvlnYG2rG51J7Uv9nrfHJ1ldc0tRDn99upb+JqGxJLxYDwVPuVnkUjT6F7SW/TgbwfG229CQnvvNqTvQlzo2I=
+    properties :
+     x : 6
+     y : 6
+     width : 265
+     height : 24
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : SEL_3264
+    identifier : 0x2cebd2fd03eb89b4
+    internal_properties : CAAAAAgAAAAfp3J9gCTJ3MDWZ3ajadzpn8NqcLPyTxXKa3qwVEdHsQJAgx/WuhboGLB6sy9GT3jeBM7SkGB8e6qGmTULe3OSrUuCBV0v8OjD0UE8oqG9ebP1jT5uiypfOwxfFD34cXk1WY1IbpCvBr6kfpgdiv56AnofgfUPFFk0riaE2jIC203qhuqprzawsbhorRvSivC7DlQ0K91RBF/lbgR0gB2odQEx59f7gXxCT0y2I6D4ZYla1CV2HRIsykJFEpSvqGCOvReiUR86jwFHD1bhEmIOmw/XdLN2F6/KAL7Q0LMqMSPTDsW5jwmYJ5ZYj8TblDKRA8I+quyUDgcYpcPK7mgpQ4zw1tr0lmBn8Z5/bupaK+7ZDLqdeOBVodUoXb2cIYq6TYq1NOsqenqRPiBvwrJJUej34G82kistzZUdq2s/HjUASc1PFwhqdOjSrwtH9vQ8ysR/Mfb663zXj8bwec8IjzPEpG8dTeh7NngO+qe74sc7lmnGKCGh6qq0BrS7UXziPe7LsHK5R5UWp49pKH2kJ/yh7IOsgKTULlWhb0RsdTxLL6H4rBV6DtGw5wjrpQ5GNxUiA7Rtu9plqvWqb677g0gzotxVueEh9Ndc48yL0f2GuxFU23GUW7YWrOaL8871DwZz5Jiixvv+K0xa9qgMx3eOLi7TqwQUDkHtDlPlGtEEHizleVNpMK+GYbsAuXZ2CeUTadQ8YQA0j0CTr6XTAmmh+c8gweiuoPHWmuCoUmDeyGzMXUowE88o8yPN8VrIX67lqMSecHoJT7wCtc1QAtX54A5TpLJ9loV62lPenCMX9lG3/M6y/R5ze7gSXrwp9oCfFKRSthNfYXyYbm9ixLIZPFicRZ2BVu3w36t8gNfKjeLwdvx4j2a/VJZ0ZTxxyHiGe0qJo3XhPbPn5FfxrHAOcSLHWf1HUS6ixJehCwvyIZ7P5QWgo2+kRMLWgSGfONc/UuXg7kK4F0OkE4CE7+9kaiA1XfI4dxEFne+pFRYkxRbphJ4dLAAnfrcKYkH5TiwPqwxP5e15CjEuoThCua3wPpeOIVlZ5y0DWlbRruMgf9608SFHsXIkORgukzxbo5yCERngboR6dQaBxcUNSd+Cit+C8iUDfldlYaUf4np9UUx375Cp8+FEjUGOHkW1CBQ=
+    properties :
+     x : 652
+     y : 6
+     width : 140
+     height : 24
+    options :
+     -
+       internal_properties : CAAAAAgAAAAemz4ZD2bzb2RE8JCHvFEn5PRLwtJEHkDzyN0P4z69WpC2D7AsusQ672simxGIzVtrplUm8lWA76DyADMTccTWS/ZUgt34/kdNZ6kgu3MbtFfBXX7InRoKpzWUm9ecFjhW8DamXXuFSMmGH02PEUK3lAuOwPe6uQtfy+Iux1Op
+     -
+       internal_properties : CAAAAAgAAACcGrITsSql3RAuSoR94DcBQKo7BCxQNn6rSpPrBdJjiKAgu0rWQvDorYnE39Ms18HbNJ1s5N3UnWaQGsdt5dpf8gOprcSnoZbEfL5ViI7Q7Z6eYomX7I2lAn4N4DR/1xU11StRkOYGxQrp4ozu/m3+3d7ZpfzTtGKckimJRtEr
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes : []
+  -
+    name : SPLIT_SansNom1
+    identifier : 0x2cf0d7e40527a0e5
+    internal_properties : CAAAAAgAAACLbTRO6N4Ii1g/lU7y1VA8WcEq1BflLpzy+sFk8vYHgynAx2tgVVDePfJOVkOCVP5u8OrKB7Dqm2TTWkyvUpOGHYO1ybJqsCmeRLdKrk3qaqkK3gTKIRo8rfId8u3KA3ZmJbi+2gXSm4u5UEwGHiJT5NxXzaLY3WYgVie+ChDvA1TJEC368lbeTFUaYZoblJi1NECadftHEtoWtDa2mOV0a3e9a+6EF7RBDHZ61QUmwtO5Gdhrx+Dsgvidc5MX3YNUClBB+gA7//Yv6EXp28WXfQNgf1IQwtG0b37YDel+O5iOP6HwEnxYyelr0Pm3Hi5gYSzCQe+Dp2XjgWiaC8wy3zEk/gHjtqb20e78nNtwmfqU2GUegpeuyVPFSlyIhr/5DwnlcYa1ZtLs/bFXvqMIKlcahPNp7N3eUsd13Jk7BoCwY+2C9M5QcQVI1qH+SE0UT+pDkoCebeAMLILrhP4qz3gh7Rh8TD8cOY9o411H2EFBtBw2AG23dbWqFi1UfpL5AyYDw8UO
+    properties :
+     y : 321
+     width : 798
+     height : 5
+    type : 28
+    code_elements :
+     type_code : 61
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADpy/w3b7yZxlHa93jMx5a/Mete/EbXt4sZEAtGmMXpeUtm2PjV8nWxUomfpsyyW3whXEgExnpBlZW8P3ANI98DKiIjVnZrA1X/sZkHCx0hsVAaY3ofznVk78fsJ2ycLN8+Gh70k41IrKI01Y4=
+     code : |1+
+      PROCEDURE MaFenêtre()
+      
+      si PowerShellDisponible() = faux ALORS
+      	erreur("PowerShell n'est pas installé sur cette machine, vous ne pouvez donc pas utiliser cet exemple.")
+      	finprogramme()
+      FIN
+      
+      
+      
+      
+      si EnMode64bits() ALORS
+      	// On est en mode 64 bits, on ne peut donc lancer que le 64
+      	SEL_3264 = 2
+      	SEL_3264..etat = grisé
+      sinon
+      	// on est en mode 32, donc on peut lancer les deux versions
+      	// attention, en 32 bits
+      	
+      	si SysVersionWindows(sysProcesseur) = "32" ALORS
+      		// Windows 32 bits
+      		SEL_3264 = 1
+      		SEL_3264..Etat = Grisé
+      	sinon
+      		// on est sur un windows 64, dans une configuration de projet 32 bits.
+      		// on peut donc lancer les deux (PowerShell 32 ou PowerShell 64)
+      		// Par défaut, on passe en 64, il y a plus de modules dispos en 64 qu'en 32
+      		SEL_3264 = 2
+      	FIN
+      	
+      FIN
+      
+      SAI_SCRIPT = [
+      
+      # Liste les partages définis sur la machine en cours
+      Get-WmiObject Win32_Share | Format-List
+      
+      ]
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1cebc0190026bddc
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Exécution_d_un_script_PowerShell.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
